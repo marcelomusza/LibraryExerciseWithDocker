@@ -1,0 +1,15 @@
+C:\Users\Marcelo\source\repos\LibraryExercise\LibraryExercise.Infrastructure\bin\Release\net7.0\LibraryExercise.Infrastructure.deps.json
+C:\Users\Marcelo\source\repos\LibraryExercise\LibraryExercise.Infrastructure\bin\Release\net7.0\LibraryExercise.Infrastructure.dll
+C:\Users\Marcelo\source\repos\LibraryExercise\LibraryExercise.Infrastructure\bin\Release\net7.0\LibraryExercise.Infrastructure.pdb
+C:\Users\Marcelo\source\repos\LibraryExercise\LibraryExercise.Infrastructure\bin\Release\net7.0\LibraryExercise.Domain.dll
+C:\Users\Marcelo\source\repos\LibraryExercise\LibraryExercise.Infrastructure\bin\Release\net7.0\LibraryExercise.Domain.pdb
+C:\Users\Marcelo\source\repos\LibraryExercise\LibraryExercise.Infrastructure\obj\Release\net7.0\LibraryExercise.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Marcelo\source\repos\LibraryExercise\LibraryExercise.Infrastructure\obj\Release\net7.0\LibraryExercise.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcelo\source\repos\LibraryExercise\LibraryExercise.Infrastructure\obj\Release\net7.0\LibraryExercise.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Marcelo\source\repos\LibraryExercise\LibraryExercise.Infrastructure\obj\Release\net7.0\LibraryExercise.Infrastructure.AssemblyInfo.cs
+C:\Users\Marcelo\source\repos\LibraryExercise\LibraryExercise.Infrastructure\obj\Release\net7.0\LibraryExercise.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Marcelo\source\repos\LibraryExercise\LibraryExercise.Infrastructure\obj\Release\net7.0\LibraryExercise.Infrastructure.csproj.CopyComplete
+C:\Users\Marcelo\source\repos\LibraryExercise\LibraryExercise.Infrastructure\obj\Release\net7.0\LibraryExercise.Infrastructure.dll
+C:\Users\Marcelo\source\repos\LibraryExercise\LibraryExercise.Infrastructure\obj\Release\net7.0\refint\LibraryExercise.Infrastructure.dll
+C:\Users\Marcelo\source\repos\LibraryExercise\LibraryExercise.Infrastructure\obj\Release\net7.0\LibraryExercise.Infrastructure.pdb
+C:\Users\Marcelo\source\repos\LibraryExercise\LibraryExercise.Infrastructure\obj\Release\net7.0\ref\LibraryExercise.Infrastructure.dll

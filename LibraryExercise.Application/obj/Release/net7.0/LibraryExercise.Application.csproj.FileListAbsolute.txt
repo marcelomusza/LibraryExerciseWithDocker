@@ -1,0 +1,17 @@
+C:\Users\Marcelo\source\repos\LibraryExercise\LibraryExercise.Application\bin\Release\net7.0\LibraryExercise.Application.deps.json
+C:\Users\Marcelo\source\repos\LibraryExercise\LibraryExercise.Application\bin\Release\net7.0\LibraryExercise.Application.dll
+C:\Users\Marcelo\source\repos\LibraryExercise\LibraryExercise.Application\bin\Release\net7.0\LibraryExercise.Application.pdb
+C:\Users\Marcelo\source\repos\LibraryExercise\LibraryExercise.Application\bin\Release\net7.0\LibraryExercise.Domain.dll
+C:\Users\Marcelo\source\repos\LibraryExercise\LibraryExercise.Application\bin\Release\net7.0\LibraryExercise.Infrastructure.dll
+C:\Users\Marcelo\source\repos\LibraryExercise\LibraryExercise.Application\bin\Release\net7.0\LibraryExercise.Domain.pdb
+C:\Users\Marcelo\source\repos\LibraryExercise\LibraryExercise.Application\bin\Release\net7.0\LibraryExercise.Infrastructure.pdb
+C:\Users\Marcelo\source\repos\LibraryExercise\LibraryExercise.Application\obj\Release\net7.0\LibraryExercise.Application.csproj.AssemblyReference.cache
+C:\Users\Marcelo\source\repos\LibraryExercise\LibraryExercise.Application\obj\Release\net7.0\LibraryExercise.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcelo\source\repos\LibraryExercise\LibraryExercise.Application\obj\Release\net7.0\LibraryExercise.Application.AssemblyInfoInputs.cache
+C:\Users\Marcelo\source\repos\LibraryExercise\LibraryExercise.Application\obj\Release\net7.0\LibraryExercise.Application.AssemblyInfo.cs
+C:\Users\Marcelo\source\repos\LibraryExercise\LibraryExercise.Application\obj\Release\net7.0\LibraryExercise.Application.csproj.CoreCompileInputs.cache
+C:\Users\Marcelo\source\repos\LibraryExercise\LibraryExercise.Application\obj\Release\net7.0\LibraryExercise.Application.csproj.CopyComplete
+C:\Users\Marcelo\source\repos\LibraryExercise\LibraryExercise.Application\obj\Release\net7.0\LibraryExercise.Application.dll
+C:\Users\Marcelo\source\repos\LibraryExercise\LibraryExercise.Application\obj\Release\net7.0\refint\LibraryExercise.Application.dll
+C:\Users\Marcelo\source\repos\LibraryExercise\LibraryExercise.Application\obj\Release\net7.0\LibraryExercise.Application.pdb
+C:\Users\Marcelo\source\repos\LibraryExercise\LibraryExercise.Application\obj\Release\net7.0\ref\LibraryExercise.Application.dll
