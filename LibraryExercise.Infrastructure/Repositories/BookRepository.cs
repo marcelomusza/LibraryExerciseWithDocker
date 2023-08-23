@@ -17,6 +17,11 @@ namespace LibraryExercise.Infrastructure.Repositories
             _context.Add(item);
         }
 
+        public void Edit(Book item)
+        {
+            _context.Update(item);
+        }
+
         public Book GetById(int id)
         {
             return _context.Books.FirstOrDefault(x => x.Id == id)!;
@@ -35,7 +40,7 @@ namespace LibraryExercise.Infrastructure.Repositories
         public void SaveChanges()
         {
             _context.SaveChanges();
-        }        
-                
+        }
+
     }
 }

@@ -20,6 +20,12 @@ namespace LibraryExercise.Application.Services
             _repository.SaveChanges();
         }
 
+        public void EditBook(Book book)
+        {
+            _repository.Edit(book);
+            _repository.SaveChanges();
+        }
+
         public void RemoveBook(Book book)
         {
             _repository.Remove(book);

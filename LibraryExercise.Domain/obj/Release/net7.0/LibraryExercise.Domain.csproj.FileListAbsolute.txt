@@ -9,3 +9,14 @@ C:\Users\Marcelo\source\repos\LibraryExercise\LibraryExercise.Domain\obj\Release
 C:\Users\Marcelo\source\repos\LibraryExercise\LibraryExercise.Domain\obj\Release\net7.0\refint\LibraryExercise.Domain.dll
 C:\Users\Marcelo\source\repos\LibraryExercise\LibraryExercise.Domain\obj\Release\net7.0\LibraryExercise.Domain.pdb
 C:\Users\Marcelo\source\repos\LibraryExercise\LibraryExercise.Domain\obj\Release\net7.0\ref\LibraryExercise.Domain.dll
+C:\Users\Marce\source\repos\Training\1\LibraryExerciseWithDocker\LibraryExercise.Domain\bin\Release\net7.0\LibraryExercise.Domain.deps.json
+C:\Users\Marce\source\repos\Training\1\LibraryExerciseWithDocker\LibraryExercise.Domain\bin\Release\net7.0\LibraryExercise.Domain.dll
+C:\Users\Marce\source\repos\Training\1\LibraryExerciseWithDocker\LibraryExercise.Domain\bin\Release\net7.0\LibraryExercise.Domain.pdb
+C:\Users\Marce\source\repos\Training\1\LibraryExerciseWithDocker\LibraryExercise.Domain\obj\Release\net7.0\LibraryExercise.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marce\source\repos\Training\1\LibraryExerciseWithDocker\LibraryExercise.Domain\obj\Release\net7.0\LibraryExercise.Domain.AssemblyInfoInputs.cache
+C:\Users\Marce\source\repos\Training\1\LibraryExerciseWithDocker\LibraryExercise.Domain\obj\Release\net7.0\LibraryExercise.Domain.AssemblyInfo.cs
+C:\Users\Marce\source\repos\Training\1\LibraryExerciseWithDocker\LibraryExercise.Domain\obj\Release\net7.0\LibraryExercise.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Marce\source\repos\Training\1\LibraryExerciseWithDocker\LibraryExercise.Domain\obj\Release\net7.0\LibraryExercise.Domain.dll
+C:\Users\Marce\source\repos\Training\1\LibraryExerciseWithDocker\LibraryExercise.Domain\obj\Release\net7.0\refint\LibraryExercise.Domain.dll
+C:\Users\Marce\source\repos\Training\1\LibraryExerciseWithDocker\LibraryExercise.Domain\obj\Release\net7.0\LibraryExercise.Domain.pdb
+C:\Users\Marce\source\repos\Training\1\LibraryExerciseWithDocker\LibraryExercise.Domain\obj\Release\net7.0\ref\LibraryExercise.Domain.dll
